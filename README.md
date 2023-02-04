@@ -3,4 +3,4 @@
 ## Greek Letters
 | S. No. | Greek Letter | Syntax |
 | :---: | :---: | :---: |
-| 1.  |  alpha  | $\alpha$  | 
+| 1.  |  alpha  | '$\alpha$'  | 
