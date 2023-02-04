@@ -4,3 +4,5 @@
 | S. No. | Greek Letter | Symbol |  Syntax  |
 | :---: | :---: | :---: | :---: |
 | 1.  |  alpha  | $\alpha$  | `$\alpha$`  |
+
+$A$
