@@ -2,4 +2,5 @@
 
 ## Greek Letters
 |:---:|:---:|:---:|
+------------------
 | S. No. | Greek Letter | Syntax |
