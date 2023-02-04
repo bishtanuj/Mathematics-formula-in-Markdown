@@ -1,2 +1,5 @@
 # Mathematics formula in Markdown
-\alpha
+
+## Greek Letters
+|:---:|:---:|:---:|
+| S. No. | Greek Letter | Syntax |
