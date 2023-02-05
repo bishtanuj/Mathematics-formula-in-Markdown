@@ -13,3 +13,7 @@
 | 8.  | theta | $\theta$  | `$\theta$` |
 | 9.  | iota  | $\iota$ | `$\iota$`  |
 | 10. | kappa | $\kappa$  | `$\kappa$`  |
+| 11. | lambda  | $\lambda$ | `$\lambda$` |
+| 12. | mu  | $\mu$ | `$\mu$` |
+| 13. | nu  | $\nu$ | `$\nu$` |
+| 14. | xi  | $\xi$ | `$\xi$` |
