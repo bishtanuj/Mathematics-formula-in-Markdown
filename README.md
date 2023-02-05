@@ -20,3 +20,6 @@
 | 15. | omicron | $\omicron$  | `$\omicron$`  |
 | 16. | pi  | $\pi$ | `$\pi`  |
 | 17. | rho | $\rho$  | `$\rho$`  |
+| 18. | sigma | $\sigma$  | `$\sigma$`  |
+| 19. | tau | $\tau$  | `$\tau$`  |
+| 20. | upsilon | $\upsilon$  | `$\upsilon$`  |
