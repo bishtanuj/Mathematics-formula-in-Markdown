@@ -9,3 +9,5 @@
 | 4.  | delta | $\delta$  | `$\delta$`  |  
 | 5.  | epsilon | $\epsilon$  | `$\epsilon$`  |
 | 6.  | zeta  | $\zeta$ | `$\zeta$` |
+| 7.  | eta | $\eta$  | '$\eta$`  |
+| 8.  | theta | $\theta$  | `$\theta` |
