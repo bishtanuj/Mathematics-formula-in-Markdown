@@ -27,3 +27,5 @@
 | 22. | chi | $\chi$  | `$\chi$`  |
 | 23. | psi | $\psi$  | `$\psi$`  |
 | 24. | omega | $\omega$  | `$\omega$`  |
+
+&#913;
