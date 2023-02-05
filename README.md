@@ -28,4 +28,4 @@
 | 23. | psi | $\psi$  | `$\psi$`  |
 | 24. | omega | $\omega$  | `$\omega$`  |
 
-$alpha*$
+$\alpha*$
