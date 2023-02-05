@@ -1,6 +1,6 @@
 # Mathematics formula in Markdown
 
-## Greek Letters
+## Greek Letters - lower case
 | S. No. | Greek Letter | Symbol |  Syntax  |
 | :---: | :---: | :---: | :---: |
 | 1.  | alpha | $\alpha$  | `$\alpha$`  |
@@ -28,4 +28,8 @@
 | 23. | psi | $\psi$  | `$\psi$`  |
 | 24. | omega | $\omega$  | `$\omega$`  |
 
-$\&#915;$
+
+## Greek Letters - upper case
+| S. No. | Greek Letter | Symbol |  Syntax  |
+| :---: | :---: | :---: | :---: |
+| 1.  | alpha | $\&#913;  | `$\&#913;$` |
