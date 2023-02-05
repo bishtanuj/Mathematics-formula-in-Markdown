@@ -32,4 +32,4 @@
 ## Greek Letters - upper case
 | S. No. | Greek Letter | Symbol |  Syntax  |
 | :---: | :---: | :---: | :---: |
-| 1.  | alpha | $\&#913;  | `$\&#913;$` |
+| 1.  | alpha | $\&#913;$  | `$\&#913;$` |
