@@ -17,3 +17,6 @@
 | 12. | mu  | $\mu$ | `$\mu$` |
 | 13. | nu  | $\nu$ | `$\nu$` |
 | 14. | xi  | $\xi$ | `$\xi$` |
+| 15. | omicron | $\omicron$  | `$\omicron$`  |
+| 16. | pi  | $\pi$ | `$\pi`  |
+| 17. | rho | $\rho$  | `$\rho$`  |
