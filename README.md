@@ -23,3 +23,7 @@
 | 18. | sigma | $\sigma$  | `$\sigma$`  |
 | 19. | tau | $\tau$  | `$\tau$`  |
 | 20. | upsilon | $\upsilon$  | `$\upsilon$`  |
+| 21. | phi | $\phi$  | `$\phi$`  |
+| 22. | chi | $\chi$  | `$\chi$`  |
+| 23. | psi | $\psi$  | `$\psi$`  |
+| 24. | omega | $\omega$  | `$\omega$`  |
