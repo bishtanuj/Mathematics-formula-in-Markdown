@@ -61,4 +61,5 @@
 ## Operators
 | S. No. | Operator | Symbol |  Syntax  |
 | :---: | :---: | :---: | :---: |
-| 1. |  Summation | $\sum$  | `$\sum$`  |   
+| 1.  | Summation | $\sum$  | `$\sum$`  |
+| 2.  | Product | $\prod$ | `$\prod$` | 
