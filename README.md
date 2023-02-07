@@ -66,4 +66,4 @@
 | 3.  | Equivalent  | $\equiv$  | `$\equiv$`  |
 | 4.  | Modulus | $\bmod$ | `$\bmod$` |
 
-$\mod$
+$\mod{-3+2}$
