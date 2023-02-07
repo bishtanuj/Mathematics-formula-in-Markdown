@@ -63,5 +63,4 @@
 | :---: | :---: | :---: | :---: |
 | 1.  | Summation | $\sum$  | `$\sum$`  |
 | 2.  | Product | $\prod$ | `$\prod$` | 
-
-$\factor$
+| 3.  | Equivalent  | $\equiv$  | `$\equiv$`  |
