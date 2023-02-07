@@ -65,5 +65,4 @@
 | 2.  | Product | $\prod$ | `$\prod$` | 
 | 3.  | Equivalent  | $\equiv$  | `$\equiv$`  |
 | 4.  | Modulus | $\bmod$ | `$\bmod$` |
-
-$\mod{-3+2}$
+| 5.  | Multiplication  | $\times$  | `$\times$`  |
