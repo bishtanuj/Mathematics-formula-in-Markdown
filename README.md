@@ -64,3 +64,6 @@
 | 1.  | Summation | $\sum$  | `$\sum$`  |
 | 2.  | Product | $\prod$ | `$\prod$` | 
 | 3.  | Equivalent  | $\equiv$  | `$\equiv$`  |
+| 4.  | Modulus | $\bmod$ | `$\bmod$` |
+
+$\mod$
