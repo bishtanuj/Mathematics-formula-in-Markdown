@@ -57,10 +57,8 @@
 | 23.  | psi | $\&#936;$  | `$\&#936;$` |
 | 24.  | omega | $\&#937;$  | `$\&#937;$` |
 
-$\lim$
-$\to$
-$\equiv$
-$\bmod$
-$\times$
-$\sum$
-$\prod$
+
+## Operators
+| S. No. | Operator | Symbol |  Syntax  |
+| :---: | :---: | :---: | :---: |
+| 1. |  Summation | $\sum$  | `$\sum$`  |   
