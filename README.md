@@ -64,4 +64,4 @@
 | 1.  | Summation | $\sum$  | `$\sum$`  |
 | 2.  | Product | $\prod$ | `$\prod$` | 
 
-$\fact$
+$\factorial$
