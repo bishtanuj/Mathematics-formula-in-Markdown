@@ -60,3 +60,5 @@
 $\lim$
 $\to$
 $\equiv$
+$\bmod$
+$\times$
