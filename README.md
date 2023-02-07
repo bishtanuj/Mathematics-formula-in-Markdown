@@ -62,4 +62,4 @@ $\to$
 $\equiv$
 $\bmod$
 $\times$
-$\addition$
+$\sum$
