@@ -66,5 +66,4 @@
 | 3.  | Equivalent  | $\equiv$  | `$\equiv$`  |
 | 4.  | Modulus | $\bmod$ | `$\bmod$` |
 | 5.  | Multiplication  | $\times$  | `$\times$`  |
-
-$\pm$
+| 6.  | Plus - Minus  | $\pm$ | `$\pm$` |
