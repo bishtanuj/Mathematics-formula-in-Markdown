@@ -63,11 +63,9 @@
 | :---: | :---: | :---: | :---: |
 | 1.  | Summation | $\sum$  | `$\sum$`  |
 | 2.  | Product | $\prod$ | `$\prod$` | 
-| 3.  | Equivalent  | $\equiv$  | `$\equiv$`  |
-| 4.  | Modulus | $\bmod$ | `$\bmod$` |
-| 5.  | Multiplication  | $\times$  | `$\times$`  |
-| 6.  | Plus - Minus  | $\pm$ | `$\pm$` |
-
-$\int$
-$\coprod$
-$\oint$
+| 3.  | Integration | $\int$  | `$\int$`  |
+| 4.  | Equivalent  | $\equiv$  | `$\equiv$`  |
+| 5.  | Modulus | $\bmod$ | `$\bmod$` |
+| 6.  | Multiplication  | $\times$  | `$\times$`  |
+| 7.  | Plus - Minus  | $\pm$ | `$\pm$` |
+| 8.  | Minus - Plus  | $\mp$ | `$\mp$` |
