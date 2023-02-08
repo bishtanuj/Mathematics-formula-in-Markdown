@@ -67,4 +67,4 @@
 | 4.  | Modulus | $\bmod$ | `$\bmod$` |
 | 5.  | Multiplication  | $\times$  | `$\times$`  |
 
-$\over$
+$\pm$
