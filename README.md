@@ -75,4 +75,6 @@
 | S. No. | Trigonometric Abbreviarions | Symbol |  Syntax  |
 | :---: | :---: | :---: | :---: |
 | 1.  | sine  | $\sin$  | `$\sin$`  |
+| 2.  | cosine | $\cos$  | `$\cos$`  |
+| 3.  | tangent | $\tan$  | `$\tan$`  |
 
