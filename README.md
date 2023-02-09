@@ -69,3 +69,10 @@
 | 6.  | Multiplication  | $\times$  | `$\times$`  |
 | 7.  | Plus - Minus  | $\pm$ | `$\pm$` |
 | 8.  | Minus - Plus  | $\mp$ | `$\mp$` |
+
+
+## Trigonometric abbreviations
+| S. No. | Trigonometric Abbreviarions | Symbol |  Syntax  |
+| :---: | :---: | :---: | :---: |
+| 1.  | sine  | $\sin$  | `$\sin$`  |
+
