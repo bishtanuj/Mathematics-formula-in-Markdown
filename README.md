@@ -79,4 +79,4 @@
 | 3.  | tangent | $\tan$  | `$\tan$`  |
 | 4.  | cotangent | $\cot$  | `$\cot$`  |
 | 5.  | secant  | $\sec$  | `$\sec$`  |
-| 6.  | cosecant  | $\cosec$  | `$\cosec$`  |
+| 6.  | cosecant  | $\csc$  | `$\csc$`  |
