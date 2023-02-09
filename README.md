@@ -77,4 +77,5 @@
 | 1.  | sine  | $\sin$  | `$\sin$`  |
 | 2.  | cosine | $\cos$  | `$\cos$`  |
 | 3.  | tangent | $\tan$  | `$\tan$`  |
+| 4.  | cotangent | $\cot$  | `$\cot$`  |
 
