@@ -85,4 +85,4 @@
 ## Power and Indices
 | S.No. | Symbol  | Syntax  |
 | :---: | :---: | :---: |
-| 1.  | $k_(n+1)$ | `$k_(n+1)$` |
+| 1.  | $k_ (n+1)$ | `$k_(n+1)$` |
