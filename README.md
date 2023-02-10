@@ -80,3 +80,9 @@
 | 4.  | cotangent | $\cot$  | `$\cot$`  |
 | 5.  | secant  | $\sec$  | `$\sec$`  |
 | 6.  | cosecant  | $\csc$  | `$\csc$`  |
+
+
+## Power and Indices
+| S.No. | Symbol  | Syntax  |
+| :---: | :---: | :---: |
+| 1.  | $k_(n+1)$ | `$k_(n+1)$` |
