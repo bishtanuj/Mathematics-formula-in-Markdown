@@ -83,7 +83,7 @@
 
 
 ## Power and Indices
-| S.No. | Symbol  | Syntax  |
+| S. No. | Symbol  | Syntax  |
 | :---: | :---: | :---: |
 | 1.  | $k_{n+1}$ | `$k_{n+1}$` |
 | 2.  | $n^2$ | `$n^2$` |
@@ -91,6 +91,6 @@
 
 
 ## Fractions and Binomials
-| S.No. | Symbol  | Syntax  |
+| S. No. | Symbol  | Syntax  |
 | :---: | :---: | :---: |
 | 1.  | $\frac{n!}{K!(n-k)!}$ | `$\frac{n!}{K!(n-k)!}$`  |
