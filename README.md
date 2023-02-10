@@ -92,4 +92,5 @@
 
 ## Fractions and Binomials
 | S.No. | Symbol  | Syntax  |
+| :---: | :---: | :---: |
 | 1.  | $\frac{n!}{K!(n-k)!}$ | `$\frac{n!}{K!(n-k)!}$`  |
