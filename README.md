@@ -94,3 +94,4 @@
 | S. No. | Symbol  | Syntax  |
 | :---: | :---: | :---: |
 | 1.  | $\frac{n!}{K!(n-k)!}$ | `$\frac{n!}{K!(n-k)!}$`  |
+| 2.  | $\binom{n}{k}$  | `$\binom{n}{k}$`  |
