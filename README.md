@@ -102,3 +102,4 @@
 ## Roots
 | S. No. | Symbol  | Syntax  |
 | :---: | :---: | :---: |
+| 1.  | $\sqrt{k}$  | `$\sqrt{k}$`  |
