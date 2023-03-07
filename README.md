@@ -110,3 +110,4 @@
 | S. No. | Symbol  | Syntax  |
 | :---: | :---: | :---: |
 | 1.  | $\sum_{i=1}^{10} t_i$ | `$\sum_{i=1}^{10} t_i$` |
+| 2.  | $\int_0^\infty \mathrm{e}^{-x},\mathrm{d}x$ | `$\int_0^\infty \mathrm{e}^{-x},\mathrm{d}x$` |
