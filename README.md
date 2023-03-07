@@ -109,3 +109,4 @@
 ## Sums and Integrals
 | S. No. | Symbol  | Syntax  |
 | :---: | :---: | :---: |
+| 1.  | $\sum_{i=1}^{10} t_i$ | `$\sum_{i=1}^{10} t_i$` |
