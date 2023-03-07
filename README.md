@@ -107,3 +107,5 @@
 
 
 ## Sums and Integrals
+| S. No. | Symbol  | Syntax  |
+| :---: | :---: | :---: |
