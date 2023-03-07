@@ -104,3 +104,6 @@
 | :---: | :---: | :---: |
 | 1.  | $\sqrt{k}$  | `$\sqrt{k}$`  |
 | 2.  | $\sqrt[n]{k}$ | `$\sqrt[n]{k}$` |
+
+
+## Sums and Integrals
