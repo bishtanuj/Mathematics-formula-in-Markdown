@@ -113,4 +113,4 @@
 | 2.  | $\int_0^\infty \mathrm{e}^{-x},\mathrm{d}x$ | `$\int_0^\infty \mathrm{e}^{-x},\mathrm{d}x$` |
 | 3.  | $\sum$  | `$\sum$`  |
 | 4.  | $\prod$ | `$prod$`  |
-
+| 5.  | $\coprod$ | `$\coprod$` |
