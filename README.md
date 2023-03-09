@@ -114,3 +114,5 @@
 | 3.  | $\sum$  | `$\sum$`  |
 | 4.  | $\prod$ | `$prod$`  |
 | 5.  | $\coprod$ | `$\coprod$` |
+| 6.  | $\bigoplus$ | `$\bigoplus$` | 
+
