@@ -117,4 +117,5 @@
 | 6.  | $\bigoplus$ | `$\bigoplus$` | 
 | 7.  | $\bigotimes$  | `$\bigotimes$`  |
 | 8.  | $\bigodot$  | `$\bigodot$`  |
+| 9.  | $\bigcup$ | `$\bigcup$` |
 
