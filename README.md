@@ -116,4 +116,5 @@
 | 5.  | $\coprod$ | `$\coprod$` |
 | 6.  | $\bigoplus$ | `$\bigoplus$` | 
 | 7.  | $\bigotimes$  | `$\bigotimes$`  |
+| 8.  | $\bigodot$  | `$\bigodot$`  |
 
