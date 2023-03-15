@@ -122,5 +122,5 @@
 | 11. | $\biguplus$ | `$\biguplus$`  |
 | 12. | $\bigsqcup$ | `$\bigsqcup$` |
 | 13. | $\bigvee$ | `$\bigvee$` |
-| 14. |
+| 14. | $\bigwedge$ | $\bigwedge$ |
 
