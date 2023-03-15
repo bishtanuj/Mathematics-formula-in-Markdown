@@ -121,5 +121,6 @@
 | 10. | $\bigcap$ | `$\bigcap$` |
 | 11. | $\biguplus$ | `$\biguplus$`  |
 | 12. | $\bigsqcup$ | `$\bigsqcup$` |
-| 13. |
+| 13. | $\bigvee$ | `$\bigvee$` |
+| 14. |
 
