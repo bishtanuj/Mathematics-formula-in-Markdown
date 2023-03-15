@@ -119,4 +119,6 @@
 | 8.  | $\bigodot$  | `$\bigodot$`  |
 | 9.  | $\bigcup$ | `$\bigcup$` |
 | 10. | $\bigcap$ | `$\bigcap$` |
+| 11. | $\biguplus$ | `$\biguplus$`  |
+
 
