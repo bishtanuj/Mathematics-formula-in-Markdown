@@ -123,4 +123,7 @@
 | 12. | $\bigsqcup$ | `$\bigsqcup$` |
 | 13. | $\bigvee$ | `$\bigvee$` |
 | 14. | $\bigwedge$ | `$\bigwedge$` |
+| 15. | $\int$  | `$\int$`  |
+| 16. | $\oint$ | `$\oint$` |
+| 17. | $\iint$ | `$\iint$` |
 
