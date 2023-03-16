@@ -126,4 +126,8 @@
 | 15. | $\int$  | `$\int$`  |
 | 16. | $\oint$ | `$\oint$` |
 | 17. | $\iint$ | `$\iint$` |
+| 18. | $\iiint$  | `$\iiint$`  |
+| 19. | $\idotsint$ | `$\idotsint$` |
+| 20. | $\sum_{\substack{0<i<m\0<j<n}} P(i, j)$ | `$\sum_{\substack{0<i<m\0<j<n}} P(i, j)$` |
+
 
