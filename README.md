@@ -128,4 +128,4 @@
 | 17. | $\iint$ | `$\iint$` |
 | 18. | $\iiint$  | `$\iiint$`  |
 | 19. | $\idotsint$ | `$\idotsint$` |
-| 20. | $\int\limits_a^b$ | `$\int\limits_a^b$`  |
+
