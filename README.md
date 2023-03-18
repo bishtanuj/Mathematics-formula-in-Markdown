@@ -129,3 +129,7 @@
 | 18. | $\iiint$  | `$\iiint$`  |
 | 19. | $\idotsint$ | `$\idotsint$` |
 
+## Miscellaneous
+| S. No. | Symbol  | Syntax  |
+| :---: | :---: | :---: |
+| 1.  | $a’’$ | `$a’’$`  |
