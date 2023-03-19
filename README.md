@@ -136,4 +136,5 @@
 | 2.  | $\hat{a}$ | `$\hat{a}$` |
 | 3.  | $\bar{a}$ | `$\bar{a}$` |
 | 4.  | $\grave{a}$ | `$\grave{a}$` |
+| 5.  | $\acute{a}$ | `$\acute{a}$` |
 
