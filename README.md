@@ -142,4 +142,5 @@
 | 8.  | $\overleftarrow{AB}$  | `$\overleftarrow{AB}$`  |
 | 9.  | $a’’’$  | `$a’’’$`  |
 | 10. | $\overline{aaa}$  | `$\overline{aaa}$`  |
-| 11. | 
+| 11. | $\check{a}$ | `$\check{a}$` |
+
