@@ -137,3 +137,4 @@
 | 3.  | $\bar{a}$ | `$\bar{a}$` |
 | 4.  | $\grave{a}$ | `$\grave{a}$` |
 | 5.  | $\acute{a}$ | `$\acute{a}$` |
+| 6.  | $\mathring{a}$  | `$\mathring{a}$`  |
