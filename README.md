@@ -139,3 +139,4 @@
 | 5.  | $\acute{a}$ | `$\acute{a}$` |
 | 6.  | $\mathring{a}$  | `$\mathring{a}$`  |
 | 7.  | $\overrightarrow{AB}$ | `$\overrightarrow{AB}$` |
+| 8.  | $\overleftarrow{AB}$  | `$\overleftarrow{AB}$`  |
