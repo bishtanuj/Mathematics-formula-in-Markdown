@@ -148,3 +148,5 @@
 | 14. | $\color{red}x$  | `$\color{red}x$`  |
 | 15. | $\pm$ | `$\pm$` |
 | 16. | $\mp$ | `$\mp$` |
+| 17. | $\int y \mathrm{d}x$  | `$\int y \mathrm{d}x$`  |
+| |      
