@@ -143,4 +143,5 @@
 | 9.  | $a’’’$  | `$a’’’$`  |
 | 10. | $\overline{aaa}$  | `$\overline{aaa}$`  |
 | 11. | $\check{a}$ | `$\check{a}$` |
-
+| 12. | $\vec{a}$ | `$\vec{a}$` |
+| 13. |
