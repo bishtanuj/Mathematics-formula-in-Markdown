@@ -132,6 +132,8 @@
 ## Brackets
 | S. No. | Symbol  | Syntax  |
 | :---: | :----:  | :---: |
+| 1.  | $(a)$ | `$(a)$` |
+
 
 ## Miscellaneous
 | S. No. | Symbol  | Syntax  |
