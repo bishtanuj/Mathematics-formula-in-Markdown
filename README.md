@@ -155,6 +155,5 @@
 | 21. | $!$ | `$!$` |
 | 22. | $\int y, \mathrm{d}x$ | `$\int y, \mathrm{d}x$` |
 | 23. | $\dots$ | `$\dots$` |
-| 24. | $\cdots$  | `$\cdots$`  |
-| 25. | $\ldots$  | `$\ldots$`  |
+
 
