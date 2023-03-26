@@ -129,6 +129,10 @@
 | 18. | $\iiint$  | `$\iiint$`  |
 | 19. | $\idotsint$ | `$\idotsint$` |
 
+## Brackets
+| S. No. | Symbol  | Syntax  |
+| :---: | :----:  | :---: |
+
 ## Miscellaneous
 | S. No. | Symbol  | Syntax  |
 | :---: | :---: | :---: |
@@ -155,5 +159,3 @@
 | 21. | $!$ | `$!$` |
 | 22. | $\int y, \mathrm{d}x$ | `$\int y, \mathrm{d}x$` |
 | 23. | $\dots$ | `$\dots$` |
-
-
