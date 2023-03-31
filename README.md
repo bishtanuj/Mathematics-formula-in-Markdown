@@ -1,4 +1,4 @@
-[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+[![Licence](https://img.shields.io/github/license/bishtanuj/Mathematics-formula-in-Markdown?style=for-the-badge)](./LICENSE)
 # Mathematics formula in Markdown
 
 ## Greek Letters - lower case
