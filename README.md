@@ -1,3 +1,4 @@
+[![License Apache-2.0](https://img.shields.io/badge/Apache-2.0-yellow.sv)](https://www.apache.org/licenses/)
 # Mathematics formula in Markdown
 
 ## Greek Letters - lower case
