@@ -1,4 +1,4 @@
-[![Licence](https://img.shields.io/github/license/bishtanuj/Mathematics-formula-in-Markdown?style=for-the-badge)](./LICENSE) $emsp;
+[![Licence](https://img.shields.io/github/license/bishtanuj/Mathematics-formula-in-Markdown?style=for-the-badge)](./LICENSE) &emsp;
 [![Issues](https://img.shields.io/github/issues/bishtanuj/Mathematics-formula-in-Markdown?style=for-the-badge)](./ISSUES)
 # Mathematics formula in Markdown
 
