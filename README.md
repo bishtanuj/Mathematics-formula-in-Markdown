@@ -1,7 +1,7 @@
 [![Licence](https://img.shields.io/github/license/bishtanuj/Mathematics-formula-in-Markdown?style=for-the-badge)](./LICENSE) &emsp;
 [![Issues](https://img.shields.io/github/issues/bishtanuj/Mathematics-formula-in-Markdown?style=for-the-badge)](./ISSUES) &emsp;
 [![Forks](https://img.shields.io/github/forks/bishtanuj/Mathematics-formula-in-Markdown?style=for-the-badge)](./FORKS) &emsp;
-[![Stars](https://img.shields.io/github/stars/bishtanuj/Mathematics-formula-in-Markdown?style=for-the-badge)](./STars)
+[![Stars](https://img.shields.io/github/stars/bishtanuj/Mathematics-formula-in-Markdown?style=for-the-badge)](./STARS)
 # Mathematics formula in Markdown
 
 ## Greek Letters - lower case
