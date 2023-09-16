@@ -4,7 +4,7 @@
 [![Stars](https://img.shields.io/github/stars/bishtanuj/Mathematics-formula-in-Markdown?style=for-the-badge)](./STARS) &emsp;
 ![Contributions](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&style=for-the-badge&color=green) 
 
-# Mathematics formula in Markdown
+# _Mathematics formula in Markdown_
 
 ## Greek Letters - lower case
 | S. No. | Greek Letter | Symbol |  Syntax  |
