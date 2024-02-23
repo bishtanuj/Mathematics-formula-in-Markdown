@@ -6,7 +6,7 @@
 
 # _Mathematics formula in Markdown_
 
-## Greek Letters - lower case
+## $Greek$ Letters - lower case
 | S. No. | Greek Letter | Symbol |  Syntax  |
 | :---: | :---: | :---: | :---: |
 | 1.  | alpha | $\alpha$  | `$\alpha$`  |
